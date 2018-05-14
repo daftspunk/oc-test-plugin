@@ -1,2 +1,3 @@
-# oc-test-plugin
-This plugin has moved: https://github.com/octoberrain/oc-test-plugin
+# Test plugin
+
+This plugin has moved: https://github.com/octoberrain/test-plugin
